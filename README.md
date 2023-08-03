@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## Hosted with Netlify {link - https://main--dropdown1react.netlify.app/} 
+## Hosted with Netlify {link - https://main--dropdown1react.netlify.app } 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
