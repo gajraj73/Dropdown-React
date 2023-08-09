@@ -1,6 +1,6 @@
 import React from "react";
 
-const Home = (props) => {
+const Home = (props) =>{
   return (
     <div className="home">
       <h1>Q. Should you use a Dropdown ?</h1>
